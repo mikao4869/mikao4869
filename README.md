@@ -1,18 +1,16 @@
 ## Hi there 👋
 
-<!--
 **mikao4869/mikao4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 박서현 🌱
 
-광주소프트웨어마이스터고 재학중인 FE 
+광주소프트웨어마이스터고 재학 중인 FE 개발자입니다.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="GitHub stats" />
 </div>
 
-
-<h3 align="center">✨Tech Stack ✨</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,18 +20,14 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-
-
 <br>
 
-<h3 align="center">🍀Contact 🍀</h3>
+<h3 align="center">🍀 Contact 🍀</h3>
 <div align="center">
   <a href="https://velog.io/@mikao/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-
-<a href="https://www.instagram.com/aigurexx1/?next=%2Fmikao_717%2F">
-    <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
+  <a href="https://www.instagram.com/aigurexx1/?next=%2Fmikao_717%2F">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
