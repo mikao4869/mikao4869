@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**mikao4869/mikao4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 박서현 🌱
 
