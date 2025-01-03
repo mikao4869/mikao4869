@@ -3,7 +3,7 @@
 
 # 박서현 🌱
 
-광주소프트웨어마이스터고 재학 중인 FE 개발자입니다.
+광주소프트웨어마이스터고 재학 중인 FE
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikao4869&show_icons=true&theme=vue" alt="GitHub stats" />
