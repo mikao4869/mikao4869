@@ -31,6 +31,6 @@
   <a href="https://www.instagram.com/aigurexx1/?next=%2Fmikao_717%2F">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/s24005@gsm.hs.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
