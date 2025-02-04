@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone 👋
 
 
 # 박서현 🌱
